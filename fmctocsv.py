@@ -431,7 +431,7 @@ if __name__ == "__main__":
     filename = generate_filename(acp_selection[0]['name'])
 
     # Write extracted rules to a CSV file
-    write_to_csv(extracted_rules, "test.csv")
+    write_to_csv(extracted_rules, filename)
 
     ## Record the end time
     end_time = time.time()
