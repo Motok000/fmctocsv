@@ -62,7 +62,7 @@ A sample CSV output includes fields like:
     - Example Policy 1
     - Example Policy 2
 - Enter the number corresponding to the Access Control Policy: 1
-- Process completed in 120.45 seconds.
+- Process completed in 12.45 seconds.
 
 
 ## Dependencies
